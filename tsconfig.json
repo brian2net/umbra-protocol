@@ -1,0 +1,9 @@
+{
+  "files": [],
+  "references": [
+    { "path": "frontend" },
+    { "path": "umbra-js" },
+    { "path": "contracts" }
+  ],
+  "exclude": ["node_modules"]
+}
